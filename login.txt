@@ -1,0 +1,11 @@
+## login info: ##
+
+email: 20tsmallwood@rccmail.org.uk
+password: Davedude101
+
+
+## user preferences: ##
+
+auto sign in: yes
+UI background color: #192845
+UI text color: #ffffff
